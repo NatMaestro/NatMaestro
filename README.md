@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NatMaestro
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and other languages
+- 🌱 I’m a fullstack developer currently teaching python backend @ STS
 - 💞️ I’m looking to collaborate on different projects to help me better my skill
 - 📫 How to reach me is on twitter(@NathanielCondu1)
 <!---
